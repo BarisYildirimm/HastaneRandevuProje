@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="hastaaa.Temel">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAQgAAAAACGAABIEAAAIAAAIAAABAAAAAA=</HashCode>
+      <FileName>Temel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hastaaa.HastalarDb">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBACgAAAIAAAAACAAICEABAIAAAIIgAIIAAABACDAAA=</HashCode>
+      <FileName>Class_Dbler\HastalarDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hastaaa.DoktorlarDb">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAIIAAAAAAIAACEACAAAAAAAAAAAAAAJAAAAAA=</HashCode>
+      <FileName>Class_Dbler\DoktorlarDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hastaaa.BolumlerDb">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAIAAAAAAIAACEAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Class_Dbler\BolumlerDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hastaaa.RandevuDb">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAIAIAAAAAAAAACEAAAAAAAgAAACAAAQDAAEAAQ=</HashCode>
+      <FileName>Class_Dbler\RandevuDb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,14 @@
+D:\Projects\C# Projects\MyProjects\hastaaa\bin\Debug\hastaaa.exe.config
+D:\Projects\C# Projects\MyProjects\hastaaa\bin\Debug\hastaaa.exe
+D:\Projects\C# Projects\MyProjects\hastaaa\bin\Debug\hastaaa.pdb
+D:\Projects\C# Projects\MyProjects\hastaaa\obj\Debug\Hastane.csprojAssemblyReference.cache
+D:\Projects\C# Projects\MyProjects\hastaaa\obj\Debug\hastaaa.Admin.resources
+D:\Projects\C# Projects\MyProjects\hastaaa\obj\Debug\hastaaa.GirisEkrani.resources
+D:\Projects\C# Projects\MyProjects\hastaaa\obj\Debug\hastaaa.Hastakayit.resources
+D:\Projects\C# Projects\MyProjects\hastaaa\obj\Debug\hastaaa.Properties.Resources.resources
+D:\Projects\C# Projects\MyProjects\hastaaa\obj\Debug\hastaaa.Randevuislemleri.resources
+D:\Projects\C# Projects\MyProjects\hastaaa\obj\Debug\hastaaa.SifremiUnuttum.resources
+D:\Projects\C# Projects\MyProjects\hastaaa\obj\Debug\Hastane.csproj.GenerateResource.cache
+D:\Projects\C# Projects\MyProjects\hastaaa\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\MyProjects\hastaaa\obj\Debug\hastaaa.exe
+D:\Projects\C# Projects\MyProjects\hastaaa\obj\Debug\hastaaa.pdb

@@ -1,0 +1,40 @@
+c:\users\admin\documents\visual studio 2015\Projects\hastaaa\hastaaa\bin\Debug\hastaaa.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hastaaa\hastaaa\bin\Debug\hastaaa.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hastaaa\hastaaa\bin\Debug\hastaaa.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hastaaa\hastaaa\obj\Debug\hastaaa.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hastaaa\hastaaa\obj\Debug\hastaaa.Admin.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hastaaa\hastaaa\obj\Debug\hastaaa.GirisEkrani.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hastaaa\hastaaa\obj\Debug\hastaaa.Hastakayit.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hastaaa\hastaaa\obj\Debug\hastaaa.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hastaaa\hastaaa\obj\Debug\hastaaa.Randevuislemleri.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hastaaa\hastaaa\obj\Debug\hastaaa.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hastaaa\hastaaa\obj\Debug\hastaaa.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hastaaa\hastaaa\obj\Debug\hastaaa.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\hastaaa\hastaaa\obj\Debug\hastaaa.SifremiUnuttum.resources
+C:\hastaaa\bin\Debug\hastaaa.exe.config
+C:\hastaaa\obj\Debug\hastaaa.exe
+C:\hastaaa\obj\Debug\hastaaa.pdb
+C:\hastaaa\bin\Debug\hastaaa.exe
+C:\hastaaa\bin\Debug\hastaaa.pdb
+C:\hastaaa\obj\Debug\hastaaa.csprojResolveAssemblyReference.cache
+C:\hastaaa\obj\Debug\hastaaa.Admin.resources
+C:\hastaaa\obj\Debug\hastaaa.GirisEkrani.resources
+C:\hastaaa\obj\Debug\hastaaa.Hastakayit.resources
+C:\hastaaa\obj\Debug\hastaaa.Properties.Resources.resources
+C:\hastaaa\obj\Debug\hastaaa.SifremiUnuttum.resources
+C:\hastaaa\obj\Debug\hastaaa.csproj.GenerateResource.Cache
+C:\hastaaa\obj\Debug\hastaaa.Randevuislemleri.resources
+D:\Projects\C# Projects\hastaaa\obj\Debug\hastaaa.csprojAssemblyReference.cache
+D:\Projects\C# Projects\hastaaa\obj\Debug\hastaaa.Admin.resources
+D:\Projects\C# Projects\hastaaa\obj\Debug\hastaaa.GirisEkrani.resources
+D:\Projects\C# Projects\hastaaa\obj\Debug\hastaaa.Hastakayit.resources
+D:\Projects\C# Projects\hastaaa\obj\Debug\hastaaa.Properties.Resources.resources
+D:\Projects\C# Projects\hastaaa\obj\Debug\hastaaa.Randevuislemleri.resources
+D:\Projects\C# Projects\hastaaa\obj\Debug\hastaaa.SifremiUnuttum.resources
+D:\Projects\C# Projects\hastaaa\obj\Debug\hastaaa.csproj.GenerateResource.cache
+D:\Projects\C# Projects\hastaaa\obj\Debug\hastaaa.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\hastaaa\obj\Debug\hastaaa.exe
+D:\Projects\C# Projects\hastaaa\obj\Debug\hastaaa.pdb
+D:\Projects\C# Projects\hastaaa\bin\Debug\hastaaa.exe.config
+D:\Projects\C# Projects\hastaaa\bin\Debug\hastaaa.exe
+D:\Projects\C# Projects\hastaaa\bin\Debug\hastaaa.pdb

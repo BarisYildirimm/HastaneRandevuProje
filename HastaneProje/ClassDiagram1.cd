@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="hastaaa.Bolumler">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEBAAABAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classlar_Ientity\Bolumler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="hastaaa.Doktorlar">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAABAQAAAQUABAAEAoAAABKAAAAUgAAABI=</HashCode>
+      <FileName>Classlar_Ientity\Doktorlar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="hastaaa.Randevu">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBAAAAQYAAAACEAAAABAAAAAAAAAIAAAACAAgAAAAI=</HashCode>
+      <FileName>Classlar_Ientity\Randevu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="hastaaa.Hastalar">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAICEAAAElAACBJAABwCgARUBIAEQAQAA=</HashCode>
+      <FileName>Classlar_Ientity\Hastalar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="hastaaa.Interface1">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classlar_Ientity\Interface1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
